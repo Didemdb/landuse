@@ -1,6 +1,4 @@
 # landuse
-Land Use Map of NYC
-
 
 Mapping Land Use in NYC
 
